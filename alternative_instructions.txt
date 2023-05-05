@@ -1,0 +1,15 @@
+Alternative instructions:
+=========================
+1. Hold down "CTRL+ALT+DEL" on your keyboard to bring up the 'Task
+   Manager'.
+2. Click the 'Details' tab and end tasks for both "AgentSvr.exe" and
+   "CyberBud.exe".
+3. Navigate to the root of your computer's hard disk (usually that would
+   be drive C:) and delete the "Apps" directory. If a dialog box asks you
+   if you want to delete it, click "Yes".
+4. Hold down the Windows key and 'R', the 'Run' window should appear.
+   Type in the 'Run' window the following command: "regedit" (no
+   quotations) and click "OK".
+5. The 'Registry Editor' window should appear. Navigate to
+   "HKEY_CURRENT_USER\Software", right-click on the key called
+   "CyberBuddy" and click "Delete".
